@@ -4,6 +4,9 @@ import BottomNav from "./components/BottomNav";
 export const metadata = {
   title: "Tilmen",
   description: "Изучай казахский язык",
+  icons: {
+    icon: "/kazakhstan-svgrepo-com.ico",
+  },
 };
 
 export default function RootLayout({
